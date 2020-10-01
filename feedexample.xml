@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<offers>
+<offer>
+	<id><![CDATA[2109]]></id>
+	<name><![CDATA[Sleek Frozen Sausages]]></name>
+	<category><![CDATA[Sleek]]></category>
+	<description><![CDATA[Eum aut qui est delectus suscipit aut voluptas quaerat maiores architecto perferendis dolorum tenetur iure nemo omnis laboriosam voluptatem et iste molestias sed voluptas eum facilis aliquam tempora autem aspernatur ipsum corrupti cum corrupti quae dolor modi consequatur provident illo maiores eius aspernatur id nostrum nisi repellat enim a hic unde laboriosam possimus est ipsam qui mollitia nesciunt est culpa voluptatem sit dignissimos quidem facilis dolorem facilis et explicabo ea veniam quis architecto autem occaecati quaerat omnis reprehenderit doloribus labore saepe asperiores a ea possimus dolor necessitatibus numquam doloremque velit fuga ipsam numquam quia omnis voluptas voluptas rerum sint eveniet sit in error quia nemo delectus perferendis asperiores quam quam assumenda reiciendis sunt aut et saepe ea adipisci eum debitis odit similique consectetur nesciunt ducimus maxime sed consequuntur repellendus qui illum vero necessitatibus perferendis cumque optio voluptatibus et quas velit voluptatem tempore est et officiis tempora iusto rerum eum amet a qui corrupti ex nobis laborum eum assumenda velit laboriosam et sed sapiente accusantium officia enim doloremque perspiciatis quos ut rerum molestias ut ut aut omnis vitae placeat voluptas iusto distinctio ea molestias et at et aliquam libero non neque dicta quos numquam est non explicabo ipsa neque dolores rerum.]]></description>
+	<price><![CDATA[252.65 EUR]]></price>
+	<url><![CDATA[https://example.com/product/2109]]></url>
+	<image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+	<opening_times><![CDATA[{"1":[{"opening":"10:00","closing":"22:30"}],"2":[{"opening":"10:00","closing":"22:30"}],"3":[{"opening":"10:00","closing":"22:30"}],"4":[{"opening":"10:00","closing":"22:30"}],"5":[{"opening":"10:00","closing":"22:30"}],"6":[{"opening":"10:00","closing":"22:30"}],"7":[],"timezone":"Europe/Warsaw"}]]></opening_times>
+</offer>
+<offer>
+	<id><![CDATA[7673]]></id>
+	<name><![CDATA[Ergonomic Soft Fish]]></name>
+	<category><![CDATA[Rustic]]></category>
+	<description><![CDATA[Pariatur consectetur autem reiciendis ab ea est fugiat tenetur suscipit ut sit rem accusamus accusamus accusamus veniam commodi omnis quia minus ratione reprehenderit est porro omnis modi et ipsa aut itaque impedit inventore modi nisi nemo commodi nesciunt earum quia sed assumenda nulla quia qui neque laborum vitae nobis dolorem perspiciatis tenetur nisi asperiores eos itaque dolorem sit est nostrum sequi similique doloremque vero id voluptas exercitationem eveniet saepe non impedit aut neque aut sed molestiae aut cum hic consectetur facilis porro atque perspiciatis maiores maiores ut aut enim iste maxime dolores est dolores quaerat dolores error nisi et esse voluptas occaecati nostrum quasi vero porro natus iste molestiae totam culpa vero voluptate porro aut ut iusto non ullam quam aut itaque velit quis maiores nobis officia ut iure voluptatibus iure nihil optio repellendus eum similique eum in excepturi doloremque rerum cumque accusantium fuga sed sed odit vel qui nam eum iure sapiente magni et temporibus quis qui pariatur tempora odit explicabo et mollitia autem nihil autem repellat ut et laudantium ab dolores nisi porro fuga sed laudantium quae delectus debitis quaerat doloremque praesentium quod ullam accusamus architecto earum impedit esse sint sint fugiat nihil itaque ut ut aut provident.]]></description>
+	<price><![CDATA[384.12 EUR]]></price>
+	<url><![CDATA[https://example.com/product/7673]]></url>
+	<image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+	<opening_times><![CDATA[{"1":[{"opening":"14:00","closing":"23:00"}],"2":[{"opening":"14:00","closing":"23:00"}],"3":[{"opening":"14:00","closing":"23:00"}],"4":[{"opening":"14:00","closing":"23:00"}],"5":[{"opening":"14:00","closing":"23:00"}],"6":[{"opening":"14:00","closing":"23:00"}],"7":[],"timezone":"Europe/Warsaw"}]]></opening_times>
+</offer>
+<offer>
+	<id><![CDATA[4548]]></id>
+	<name><![CDATA[Handmade Metal Chair]]></name>
+	<category><![CDATA[Gorgeous]]></category>
+	<description><![CDATA[Voluptatum voluptatem tempore qui autem placeat qui quod nemo nulla nulla pariatur soluta quasi ex aut quis vitae molestias dolorum non iste id est non vitae ea cupiditate eaque fugit ab et iure similique enim eos et quia et praesentium sed ut corporis minus sed enim ipsam nam voluptas esse facere modi sunt quae voluptatem non et sit doloremque minima amet omnis autem enim vero voluptate rem natus quia esse ad et voluptatem cupiditate nihil aperiam eos iure sequi sapiente porro quod voluptatem dolor vitae excepturi iste ut placeat cupiditate voluptatem voluptatum praesentium unde quod repudiandae nihil a aperiam qui consequatur laudantium voluptas modi dolores voluptatum quis deleniti neque est a quia est deleniti facere id non et repellat sit itaque qui dolorem ut vero laborum porro et aut iusto impedit vel quia id vel voluptate doloremque iste sapiente qui inventore cupiditate inventore necessitatibus optio cum saepe laborum rem deleniti quis inventore mollitia dignissimos ipsum tempore magnam quia dolorem ut cum autem laudantium architecto sint incidunt qui voluptatem quam harum et facere quae omnis aut aliquid quia ut et debitis natus corporis voluptas excepturi magnam molestiae molestiae explicabo debitis quibusdam commodi totam ipsam id perferendis dicta quo consectetur modi minima.]]></description>
+	<price><![CDATA[184.94 EUR]]></price>
+	<url><![CDATA[https://example.com/product/4548]]></url>
+	<image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+	<opening_times><![CDATA[{"1":[{"opening":"08:00","closing":"23:00"}],"2":[{"opening":"08:00","closing":"23:00"}],"3":[{"opening":"08:00","closing":"23:00"}],"4":[{"opening":"08:00","closing":"23:00"}],"5":[{"opening":"08:00","closing":"23:00"}],"6":[{"opening":"08:00","closing":"23:00"}],"7":[{"opening":"10:00","closing":"23:00"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+</offer>
+<offer>
+	<id><![CDATA[4245]]></id>
+	<name><![CDATA[Refined Concrete Car]]></name>
+	<category><![CDATA[Incredible]]></category>
+	<description><![CDATA[Accusantium perferendis itaque quidem aperiam est sint non iste doloremque reiciendis vel iste est architecto autem ipsam rerum porro repudiandae expedita sapiente rem accusamus sed repellat vel exercitationem excepturi id corporis corporis voluptas aut vel voluptatum voluptates provident aut hic quia odit corporis necessitatibus id provident dolores porro quo eius sit pariatur itaque placeat vel laudantium possimus fuga consectetur dolores deserunt id ea expedita tempora itaque et minima officia minus quis cumque debitis et quae explicabo est doloremque aut voluptate sunt quia quisquam ullam dolores dolorum adipisci consequatur perspiciatis aut distinctio ut placeat perspiciatis consequatur ut est labore molestiae id error rerum quo dolores a non maxime ad excepturi eos dolores natus in mollitia accusantium exercitationem qui et omnis pariatur eos consequatur quibusdam non eos hic et quia neque vel voluptas et eum eos et aut vero qui dolor dolor enim voluptatem delectus in velit corporis molestiae recusandae iure nobis modi dolores nostrum sunt reprehenderit vel cum tenetur ut nemo recusandae asperiores velit corporis distinctio exercitationem itaque nemo fugit veniam asperiores quaerat consequuntur placeat officiis provident exercitationem sunt sint perferendis et est dolor repudiandae suscipit odio beatae et rerum vero non qui voluptatibus commodi voluptate deserunt sunt ex necessitatibus dolorem.]]></description>
+	<price><![CDATA[219.23 EUR]]></price>
+	<url><![CDATA[https://example.com/product/4245]]></url>
+	<image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+	<opening_times><![CDATA[{"1":[{"opening":"12:00","closing":"21:30"}],"2":[{"opening":"12:00","closing":"21:30"}],"3":[{"opening":"12:00","closing":"21:30"}],"4":[{"opening":"12:00","closing":"21:30"}],"5":[{"opening":"12:00","closing":"21:30"}],"6":[{"opening":"12:00","closing":"21:30"}],"7":[{"opening":"12:00","closing":"20:30"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+</offer>
+</offers>
+
