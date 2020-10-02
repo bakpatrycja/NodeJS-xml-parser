@@ -11,24 +11,6 @@
 1) In console you should be able to see two console logs (Offers which are active and inactive)
 2) You should be able to see and open file "feed_out.xml" in catalog where .ts file is stored
 
-# Task description
-
-1. Read given `feed.xml` xml file using stream in Node.js using TypeScript
-2. Create new (valid) xml feed file `feed_out.xml` adding information (in a new child node named `is_active`) whether given offer should be active or paused (boolean)
-3. Calculate how many offers are `active` and how many are `paused` in the recreated xml file (you don't have to use Node.js for this)
-
-## Additional information
-Each offer node has JSON inside `opening_times` child node.
-It contains information about opening times for given offer on each week day (1 - Monday, 7 - Sunday).
-This means opening times can be different between week days.
-
-In order for the offer to be considered 'active':
-- opening time for current week day must be before current hour
-- closing time for current week day must be after current hour
-
-## Notes:
-- Assume all opening times are in UTC
-- Some offers won't be active at all on some days
 
 ## Examples
 
